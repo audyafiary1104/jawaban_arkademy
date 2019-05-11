@@ -15,4 +15,4 @@ RESTful API itu merupakan salah satu model implementasi dari web service. <br>
  <br> <br>
 5. saya menggunakan sorting array pada php yaitu asort dan rsort
  <br> <br>
-6.saya menggunakna framework laravel untuk bagian backendnya dan vuejs untuk bagian frontendnya 
+6.saya menggunakna framework laravel untuk bagian backendnya dan bootsrap,,materialize untuk bagian frontendnya 
