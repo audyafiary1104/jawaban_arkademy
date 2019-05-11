@@ -19,6 +19,10 @@ RESTful API itu merupakan salah satu model implementasi dari web service. <br>
 <img src="https://user-images.githubusercontent.com/35917750/57569697-c8bc1900-73c6-11e9-9f74-129d22bec9dd.png">
 <img src="https://user-images.githubusercontent.com/35917750/57569699-ce196380-73c6-11e9-80de-f540fc3addd4.png">
 <img src="https://user-images.githubusercontent.com/35917750/57569703-d5d90800-73c6-11e9-8891-b36aec496e1a.png">
+<img src="https://user-images.githubusercontent.com/35917750/57569764-da51f080-73c7-11e9-8e6a-7a0894ea6d94.png">
+<img src="https://user-images.githubusercontent.com/35917750/57569769-e63db280-73c7-11e9-8ba4-b120c3d9e1d2.png">
+<img src="https://user-images.githubusercontent.com/35917750/57569771-ec339380-73c7-11e9-9caa-9385d2f5b262.png">
+
 langkah awal menjalankannya 
 <ul>
  <li>Composer Install</li>
