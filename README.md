@@ -16,6 +16,13 @@ RESTful API itu merupakan salah satu model implementasi dari web service. <br>
 5. saya menggunakan sorting array pada php yaitu asort dan rsort
  <br> <br>
 6.saya menggunakna framework laravel untuk bagian backendnya dan bootsrap,,materialize untuk bagian frontendnya 
-![image](https://user-images.githubusercontent.com/35917750/57569697-c8bc1900-73c6-11e9-9f74-129d22bec9dd.png)
-![image](https://user-images.githubusercontent.com/35917750/57569699-ce196380-73c6-11e9-80de-f540fc3addd4.png)
-![image](https://user-images.githubusercontent.com/35917750/57569703-d5d90800-73c6-11e9-8891-b36aec496e1a.png)
+<img src="https://user-images.githubusercontent.com/35917750/57569697-c8bc1900-73c6-11e9-9f74-129d22bec9dd.png">
+<img src="https://user-images.githubusercontent.com/35917750/57569699-ce196380-73c6-11e9-80de-f540fc3addd4.png">
+<img src="https://user-images.githubusercontent.com/35917750/57569703-d5d90800-73c6-11e9-8891-b36aec496e1a.png">
+langkah awal menjalankannya 
+<ul>
+ <li>Composer Install</li>
+ <li>Ganti Database di env</li>
+ <li>Setelah itu php artisan migrate:fresh</li>
+ <li>php artisan serv</li>
+ </ul>
